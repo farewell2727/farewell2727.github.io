@@ -1300,7 +1300,7 @@ body {
   background: var(--global-bg);
   color: var(--font-color);
   font-size: var(--global-font-size);
-  font-family: SmileySans-Oblique;
+  font-family: 得意黑;
   line-height: 2;
   -webkit-tap-highlight-color: rgba(0,0,0,0);
 }
@@ -1431,7 +1431,7 @@ a:hover {
 .site-name,
 #aside-content .author-info__name,
 #aside-content .author-info__description {
-  font-family: SmileySans-Oblique;
+  font-family: 得意黑;
 }
 .is-center {
   text-align: center;
@@ -1599,7 +1599,7 @@ figure.highlight pre .javascript .function {
 #article-container pre,
 #article-container code {
   font-size: var(--global-font-size);
-  font-family: SmileySans-Oblique !important;
+  font-family: 得意黑 !important;
 }
 #article-container code {
   padding: 2px 4px;
@@ -1870,7 +1870,7 @@ figure.highlight pre .javascript .function {
   height: 100%;
   vertical-align: top;
   text-align: center;
-  font-family: SmileySans-Oblique;
+  font-family: 得意黑;
 }
 @media screen and (max-width: 768px) {
   .error404 #error-wrap .error-content .error-info {
